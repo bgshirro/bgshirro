@@ -1,6 +1,11 @@
-### Hello 👋🏼
-Thanks for your visiting
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
+I am 16 years old, and I'm very interested in programming.
 
+## 📌 Skills
+
+![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
+![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <!--
 **bgshirro/bgshirro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@ I am 16 years old, and I'm very interested in programming.
 
 ## <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://fb.com/bagas.anggoro.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagas.anggoro.942" height="30" width="40" /></a>
 

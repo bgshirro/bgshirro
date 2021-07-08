@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/@bgshirro">
+<a href="https://instagram.com/@bgshirro">
 <img src="instagram.svg" width="40" height="40">
 </a>
 <a href="https://facebook.com/bagas.anggoro.942">

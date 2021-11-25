@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/"> Hi! Welcome to my profile
+Hi! Welcome to my profile
 <h3 align="center">A FrontEnd web developer enthusiast from Indonesia.</h3>
 <details>
 <summary>View More</summary>
